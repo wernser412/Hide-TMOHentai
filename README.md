@@ -1,5 +1,5 @@
 # Hide-TMOHentai
-**Última Actualización:** 08 de septiembre de 2025
+**Última Actualización:** 19 de septiembre de 2025
 
 🛡️ Userscript para ocultar automáticamente todo el contenido etiquetado como **Yaoi** en [TMOHentai.com](https://tmohentai.com), útil si deseas filtrar ese tipo de contenido del sitio sin afectar la experiencia general.
 
